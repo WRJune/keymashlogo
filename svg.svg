@@ -1,0 +1,12 @@
+<svg width="420" height="420" xmlns="http://www.w3.org/2000/svg" data-name="Layer 1">
+ <g>
+  <title>Layer 1</title>
+  <path fill="#7289da" opacity="undefined" d="m1,30c0,-16.30137 13.69863,-30 30,-30l360,0c16.30137,0 30,13.69863 30,30l0,360c0,16.30137 -13.69863,30 -30,30l-360,0c-16.30137,0 -30,-13.69863 -30,-30l0,-360z" id="svg_1"/>
+  <rect class="cls-2" x="160" y="100" width="100" height="100" rx="10" fill="#070707" id="svg_2"/>
+  <rect class="cls-2" x="160" y="220" width="100" height="100" rx="10" fill="#070707" id="svg_3"/>
+  <rect class="cls-2" x="280" y="220" width="100" height="100" rx="10" fill="#070707" id="svg_4"/>
+  <rect class="cls-2" x="40" y="220" width="100" height="100" rx="10" fill="#070707" id="svg_5"/>
+  <rect id="svg_6" height="0" width="1" y="101.00347" x="198.78388" stroke="#000" fill="#fff"/>
+ </g>
+
+</svg>
