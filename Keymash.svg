@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1, 0, 0, 1, 241.996309, 40.000005)">
+    <title>Layer 1</title>
+    <path id="svg_1" d="m0,30c0,-16.30137 13.69863,-30 30,-30l360,0c16.30137,0 30,13.69863 30,30l0,360c0,16.30137 -13.69863,30 -30,30l-360,0c-16.30137,0 -30,-13.69863 -30,-30l0,-360z" opacity="undefined" style="fill: rgb(114, 137, 218);"/>
+    <rect id="svg_2" rx="10" height="100" width="100" y="100" x="160" class="cls-2" fill="#070707"/>
+    <rect id="svg_3" rx="10" height="100" width="100" y="220" x="160" class="cls-2" fill="#070707"/>
+    <rect id="svg_4" rx="10" height="100" width="100" y="220" x="280" class="cls-2" fill="#070707"/>
+    <rect id="svg_5" rx="10" height="100" width="100" y="220" x="40" class="cls-2" fill="#070707"/>
+  </g>
+</svg>
